@@ -37,3 +37,6 @@ pip install -r requirements.txt
 ```bash
 python task_1_int_optimization.py
 ```
+____
+### Зависимости проекта
+Все зависимости проекта находятся в файле requirements.txt
