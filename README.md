@@ -9,7 +9,7 @@ ____
 ### 1. Клонируйте репозиторий
 ```bash
 git clone git@github.com:Python-Team-25-26/int-optimiztion.git
-cd Laba_1
+cd int-optimiztion
 ```
 ### 2. Создайте виртуальное окружение
 ```bash
