@@ -24,7 +24,7 @@ def find_range_simple() -> list[int]:
         m2 += 1
     M = m1 - 1
 
-    return -N, M
+    return N, M
 
 if __name__ == "__main__":
 
